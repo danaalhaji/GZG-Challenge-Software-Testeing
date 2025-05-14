@@ -1,0 +1,28 @@
+h1 {
+    color: goldenrod;
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("360_F_319286712_A1Ub7YD5EAtGhpxc9C0FaIPOPXKKU0rU.png");
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 2px;
+}
+
+#messgae-el {
+    font-style: italic;
+}
+
+button {
+    text-align: center;
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
